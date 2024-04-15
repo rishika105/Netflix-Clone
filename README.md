@@ -2,14 +2,6 @@
 
 Welcome to the Netflix Clone project! This project is a front-end recreation of the popular streaming service Netflix using only HTML and CSS. It serves as an educational exercise in building a web page with a layout similar to Netflix's homepage.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Credits](#credits)
-- [License](#license)
-
 ## Features
 - **Homepage Layout**: The project closely replicates the Netflix homepage layout, including sections like the hero section, FAQ section, and footer.
 - **Responsive Design**: The page is responsive and adapts to different screen sizes for a smooth user experience.
@@ -35,4 +27,5 @@ Welcome to the Netflix Clone project! This project is a front-end recreation of 
 The project is ready to use once you open the `netflix.html` file in a web browser. The page will display a Netflix-like interface with a homepage layout, FAQ section, and footer.
 
 ## Screenshot
+![Netflix Clone - image](https://github.com/rishika105/Netflix-Clone/assets/165581871/2eb680fb-71d9-4096-956c-c6424a37cf9f)
 

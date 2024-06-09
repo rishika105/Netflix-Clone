@@ -21,7 +21,7 @@ Welcome to the Netflix Clone project! This project is a front-end recreation of 
     cd netflix-clone
     ```
 
-3. Open the `netflix.html` file in your preferred web browser to view the project.
+3. Open the `index.html` file in your preferred web browser to view the project.
 
 ## Usage
 The project is ready to use once you open the `netflix.html` file in a web browser. The page will display a Netflix-like interface with a homepage layout, FAQ section, and footer.
